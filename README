@@ -1,0 +1,4 @@
+SafeTML5 allows web developers to write HTML5 code once.
+If HTML5 is not supported in the client's browser, html5.swf will accurately emulate the behavior of the video, audio & canvas tags.
+
+Source code will soon follow...
